@@ -5,9 +5,6 @@ Technologies: Unreal Engine 5, Perforce
 
 Bellow is a first-person horror where the player spawns at the bottom of a very large pit with one objective - climbing out alive. 
 
-
-The player faces various obstacles and the main one being the Warden. The Warden is a an enemy AI that hunts the player based on sound, its aim is to prevent the player from escaping the pit. To detect the player more easily the Warden
-
 It's being developed in Unreal Engine 5 using C++ and blueprints as a two-person project.
 
 ## Features
@@ -29,6 +26,45 @@ I work on the core gameplay programming in C++, including player traversal, stam
 - **Gameplay events and sound** — player actions can feed into systems that control how the threat responds.
 - **Smart Enemy AI** - enemy AI has a complex behavioural state system.
 
+# Mechanics Clips
+
+## Death efffect
+https://github.com/user-attachments/assets/59874f32-eff7-4bf4-bdae-43cb56c1cbb4
+
+## Climbing
+https://github.com/user-attachments/assets/57ab9aae-a6f4-4752-a81e-fa686da5e1be
+
+## Damage Feedback
+https://github.com/user-attachments/assets/a7547502-5095-47c2-a66d-9bc24a077abc
+
+## Bandage Healing
+https://github.com/user-attachments/assets/9ad70261-c6b2-4916-bf1c-c87787ef5607
+
+## Bandage Item Consumed
+https://github.com/user-attachments/assets/57a3190d-f388-4dfa-bfa1-5475b3b0c30e
+
+## Bandage Item Stayed (0 durability)
+https://github.com/user-attachments/assets/49b33602-03da-49ff-8739-6364867f3663
+
+## Prop Inspecting
+https://github.com/user-attachments/assets/df5abba7-9f62-4c84-984c-96e3552e9e65
+
+## Module Generation
+https://github.com/user-attachments/assets/cec7fcf6-5cd3-4c73-a7b2-3f1dd1380137
+
+## Stackable Items and Infinite Use Items
+https://github.com/user-attachments/assets/19a77daa-0f1e-4a39-870e-3452bc8216f7
+
+## First Version Of Throw Mechanic
+https://github.com/user-attachments/assets/613e46cf-d22b-4124-a682-3e405c42eca9
+
+## Current Version Of Throw Mechanic 
+https://github.com/user-attachments/assets/91e03010-4824-40e2-b8ac-8a9d7d89df88
+
+
+
+
 ## Project status and next steps
+
 
 
