@@ -1,6 +1,6 @@
 # Bellow
 
-Status: In Development
+Status: In Development; 
 Team: Matas Mulevicius - Gameplay Systems Programmer , Ignas Barauskas - 3D artist 
 
 Bellow is a first-person horror where the player spawns at the bottom of a very large pit with one objective - climbing out alive. The player faces various obstacles, the main one being "The Warden", who constantly hunts, ambushes and sets small bell traps to detect the player. 
