@@ -5,7 +5,7 @@ Team: Matas Mulevicius - Gameplay Systems Programmer , Ignas Barauskas - 3D arti
 
 Bellow is a first-person horror where the player spawns at the bottom of a very large pit with one objective - climbing out alive. The player faces various obstacles, the main one being "The Warden", who constantly hunts, ambushes and sets small bell traps to detect the player. 
 
-This game is being developed as a two-person project, by using Unreal Engine 5.7, a combination of C++ and blueprints and for version control Perforce is being used.
+This game is being developed as a two-person project, by using Unreal Engine 5.7, a combination of C++ and blueprints, for version control Perforce is being used.
 
 ## Features
 
