@@ -1,11 +1,11 @@
 # Bellow
 
 Status: In Development
-Technologies: Unreal Engine 5, Perforce
+Team: Matas Mulevicius - Gameplay Systems Programmer , Ignas Barauskas - 3D artist 
 
-Bellow is a first-person horror where the player spawns at the bottom of a very large pit with one objective - climbing out alive. 
+Bellow is a first-person horror where the player spawns at the bottom of a very large pit with one objective - climbing out alive. The player faces various obstacles, the main one being "The Warden", who constantly hunts, ambushes and sets small bell traps to detect the player. 
 
-It's being developed in Unreal Engine 5 using C++ and blueprints as a two-person project.
+This game is being developed as a two-person project, by using Unreal Engine 5.7, a combination of C++ and blueprints and for version control Perforce is being used.
 
 ## Features
 
@@ -62,9 +62,17 @@ https://github.com/user-attachments/assets/613e46cf-d22b-4124-a682-3e405c42eca9
 https://github.com/user-attachments/assets/91e03010-4824-40e2-b8ac-8a9d7d89df88
 
 
+## Project status 
 
+Bellow is currently in active development. Each gameplay mechanic is being refined and tested to make sure they meet the defined requirements. However, currently the systems haven't been brought together so there is no working gameplay loop yet. The clips above show examples of some of the mechanics currently in place. Currently the development is focused on the enemy AI and sound system implementation, which is one of the most important aspects of the game. In the future there will be a development milestone map revealed but for now, any updates on this game will be revealed here.
 
-## Project status and next steps
+## Next Steps
+
+- Refine climbing, traversal, and stamina mechanics.
+- Connect the player mechanics to level progression and checkpoints.
+- Develop the sound-reactive threat and connect it to player actions.
+- Implement prototype version of enemy AI.
+- Bring these systems together in a cohesive playable level.
 
 
 
